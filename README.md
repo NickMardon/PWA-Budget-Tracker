@@ -6,6 +6,8 @@ This application is a budget tracking application with progressive web applicati
 
 ## Screenshots
 
+<img width="1794" alt="Screen Shot 2020-08-06 at 9 38 27 AM" src="https://user-images.githubusercontent.com/64296192/89558134-b21e9080-d7c8-11ea-8ac5-bec41e833710.png">
+
 ## Table of Contents
 
 * [Installation](#installation)
